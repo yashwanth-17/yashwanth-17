@@ -1,12 +1,14 @@
 ### Hi there 👋
 ### I'm Yashwanth
 
+
 - 🧑‍🎓 I’m currently a computer science undergraduate.
 - Entusiasthic with the following:
   -  Web Development
   -  Mobile Development
   -  Artificial Intelligence
   -  Machine Learning
+
 
 - Proficient in the following languages:
   - C
@@ -17,6 +19,7 @@
   - Typescript
   - PHP
   - Dart
+
 
 - I've skilled my web development with **ReactJS**.
 - Explored hybrid application development with **React Native**.
