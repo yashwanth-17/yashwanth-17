@@ -20,7 +20,7 @@
   - PHP
   - Dart
 
-# <img src="https://cdn.auth0.com/blog/react-js/react.png" width="100" height="100">
+# <img src="https://cdn.auth0.com/blog/react-js/react.png" width="100" height="100"> <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="100" height="100">
 - I've skilled my web development with **ReactJS**.
 - Explored hybrid application development with 📱 **React Native**.
 - Learned **Dart** and started to 🕊️ **Flutter** my mobile development.
