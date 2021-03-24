@@ -20,7 +20,7 @@
   - PHP
   - Dart
 
-![ReactJS](https://cdn.auth0.com/blog/react-js/react.png)
+![ReactJS](https://cdn.auth0.com/blog/react-js/react.png | width=100)
 - I've skilled my web development with **ReactJS**.
 - Explored hybrid application development with 📱 **React Native**.
 - Learned **Dart** and started to 🕊️ **Flutter** my mobile development.
