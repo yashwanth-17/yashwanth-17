@@ -22,7 +22,7 @@
 
 
 - I've skilled my web development with **ReactJS**.
-- Explored hybrid application development with **React Native**.
+- Explored hybrid application development with 📱 **React Native**.
 - Learned **Dart** and started to 🕊️ **Flutter** my mobile development.
 
 ### My Github Stats
