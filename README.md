@@ -25,7 +25,7 @@
 - I've skilled my web development with **ReactJS** and also with **Flask**.
 - Explored hybrid application development with 📱 **React Native**.
 - Learned **Dart** and started to 🕊️ **Flutter** my mobile development.
-- Working on server and desktop applications developed with **C#**.
+- Working on server and desktop applications developed with **C#️⃣**.
 
 ### My Github Stats
 [![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-17&show_icons=true&theme=dark)](https://github.com/yashwanth-17/github-readme-stats)
