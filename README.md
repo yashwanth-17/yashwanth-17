@@ -28,4 +28,4 @@
 - Working on server and desktop applications developed with **C#️⃣**.
 
 ### My Github Stats
-[![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-17&show_icons=true&theme=dark)](https://github.com/yashwanth-17/github-readme-stats)
+###[![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-17&show_icons=true&theme=dark)](https://github.com/yashwanth-17/github-readme-stats)
